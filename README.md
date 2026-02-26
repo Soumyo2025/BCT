@@ -18,7 +18,8 @@ pip install torch diffusers transformers accelerate moviepy
 
 Check out what this AI can generate:
 
-[[Video Sample]](https://github.com/Soumyo2025/BCT/blob/main/final_hq_video.mp4?raw=true)
+<video src="https://github.com/Soumyo2025/BCT/blob/main/final_hq_video.mp4?raw=true" width="100%" controls>
+</video>
 
 ---
 *Generated using ModelScope and MoviePy*
