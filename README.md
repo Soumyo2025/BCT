@@ -12,8 +12,13 @@ This project generates **10-second high-quality videos** from text prompts using
 If running locally, you will need:
 ```bash
 pip install torch diffusers transformers accelerate moviepy
+
+
 ## 📺 Sample Gallery
 
 Check out what this AI can generate:
 
-https://github.com/Soumyo2025/BCT/blob/main/final_hq_video.mp4?raw=true
+[[Video Sample]](https://github.com/Soumyo2025/BCT/blob/main/final_hq_video.mp4?raw=true)
+
+---
+*Generated using ModelScope and MoviePy*
