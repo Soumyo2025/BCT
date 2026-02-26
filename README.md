@@ -16,13 +16,6 @@ pip install torch diffusers transformers accelerate moviepy
 
 ## 📺 Sample Gallery
 
-https://github.com/user-attachments/assets/611a263e-df80-420a-988d-af7cf28d5799
-
-
-
 Check out what this AI can generate:
 
-
-
----
-*Generated using ModelScope and MoviePy*
+![AI Video Sample](https://github.com/user-attachments/assets/611a263e-df80-420a-988d-af7cf28d5799)
